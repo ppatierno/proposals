@@ -14,7 +14,7 @@ This repository lists proposals for the Strimzi project. A template for new prop
 | 155 | [Projected Service Account Tokens in Additional Volumes](./155-projected-service-account-tokens-in-additional-volumes.md) |
 | 154 | [Consolidating the `KafkaRebalance` API for extensibility](./154-kafkarebalance-custom-resource-consolidation.md) |
 | 153 | [Strimzi-native Configurable Certificate Key Strength](./153-configurable-ca-key-size.md) |
-| 152 | [Use ubi10-micro as a base image](./152-use-ubi10-as-base-image.md) |
+| 152 | [Use ubi9-micro as a base image](./152-use-ubi9-micro-as-base-image.md) |
 | 151 | [Support broker cordoning in auto-rebalancing on scale-down](./151-broker-cordoning-scale-down.md) |
 | 150 | [Configurable Security for Internal Kafka Cluster Communication](./150-configurable-security-of-internal-communication.md) |
 | 149 | [Maven mirror support for Kafka Connect builds](./149-connect-build-maven-mirror.md) |
